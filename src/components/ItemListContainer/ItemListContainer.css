@@ -1,0 +1,9 @@
+.ItemListContainer{
+    color: white;
+}
+
+.List{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
